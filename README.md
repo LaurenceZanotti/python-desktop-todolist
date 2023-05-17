@@ -28,3 +28,13 @@ A interface gráfica deve ter uma janela principal contendo:
 - Os dados de login dos usuários devem ser armazenados em um banco de dados.
 - Cada usuário deve ter sua própria lista de tarefas associada a ele.
 - As tarefas devem ser armazenadas em um banco de dados, com campos como título, descrição e status (concluída ou não).
+
+## Como rodar 
+
+Tenha o Python instalado
+
+1. `git clone https://github.com/LaurenceZanotti/python-desktop-todolist`
+2. `cd python-desktop-todolist`
+3. `python app.py`
+
+Difícil né? Será que eu devia deixar essa seção aqui? 😂
