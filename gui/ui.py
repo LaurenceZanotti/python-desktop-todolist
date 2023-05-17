@@ -1,6 +1,6 @@
 from tkinter import *
 
-from .pages.counter_page import CounterPage
+from .pages.counter.counter_page import CounterPage
 
 class UI:
     def __init__(self):
